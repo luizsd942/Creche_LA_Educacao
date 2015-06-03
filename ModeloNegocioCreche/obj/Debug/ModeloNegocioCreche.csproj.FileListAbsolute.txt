@@ -1,0 +1,9 @@
+J:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\bin\Debug\ModeloNegocioCreche.dll
+J:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\bin\Debug\ModeloNegocioCreche.pdb
+J:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\obj\Debug\ModeloNegocioCreche.dll
+J:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\obj\Debug\ModeloNegocioCreche.pdb
+I:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\bin\Debug\ModeloNegocioCreche.dll
+I:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\bin\Debug\ModeloNegocioCreche.pdb
+I:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\obj\Debug\ModeloNegocioCreche.csprojResolveAssemblyReference.cache
+I:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\obj\Debug\ModeloNegocioCreche.dll
+I:\FACULDADE\8_Periodo\Topicos_II_C#\crecheLAEducacao\ModeloNegocioCreche\obj\Debug\ModeloNegocioCreche.pdb
